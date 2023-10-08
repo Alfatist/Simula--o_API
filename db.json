@@ -1,8 +1,3 @@
 {
-  "1": { "mensagem": "Tu é um merda" },
-  "2": { "mensagem": "Tu é um porra" },
-  "3": { "mensagem": "Tu é um fracassado" },
-  "4": { "mensagem": "Tu é um detestável" },
-  "5": { "mensagem": "Tu é um Rafael" },
-  "6": { "mensagem": "Tu é um mendigo" }
+  "mensagem": { "1": "Tu é um merda", "2": "Tu é um polícia", "6": "Tu é um porra", "3": "Tu é um chato", "4": "Tu é um cretino", "5": "Tu é um sla" }
 }
